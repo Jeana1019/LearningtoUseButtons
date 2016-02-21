@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+	<widget xmlns     ="http://www.w3.org/ns/widgots"
+		xmlns:gap ="http://phonegap.com/ns/1.0"
+		id        ="com.phonegap.example"
+		verson    ="1.0.0">
+
+<icon src="icon.png" />
+<splash src="icon.png" />
+
+<name>Hello World</name>
+<description>
+	Practice with phonegap
+</description>
+</widget>
